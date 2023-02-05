@@ -9,7 +9,7 @@ NA
 ## Usage
 The schedule will load, showing the current date at the top of the page. It will then have a box allocated for each hour of a 9-5 work day. Each box/hour will also be color coordinated, so the user knows which events have passed, the lineup for the current hour, and what to expect later on in the day. As the user has more responsibilities come up, they can enter and save text for reminders of future obligations. This is done by clicking the button on the right side of each hour's box. And in case the page needs to be reloaded, local storage will remember all of the day's activities, so you do not need to worry about data being lost or needing to be entered again.
 
-Link: https://jmkuhn11.github.io/Personal-Calendar-Ch5/
+Link: 
 
 Screenshots:
 
