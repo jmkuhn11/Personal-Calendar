@@ -1,14 +1,16 @@
 # Personal-Calendar-Ch5
 
 ## Description
-As a Boot Camp student who is very new to coding, I am very proactive about making sure I am staying up to date with the course material and my peers. Without some evaluation there is a good chance I will fall behind. Thus, I created this Coding Quiz. It will help me go over past learning materials so I can commit to memory past lessons. It will give me a chance to code incorporating Javascript with HTML and CSS at the same time, developing my abilities further. And it will also give me a chance to see what job interviews using similar methods will be like when I enter the workforce. I have since started to understand how coding elements on different sheets work together to make a website appear and work more functional.
+As a new employee in the world of computer science, I am trying to get a better grasp of my hours and day-to-day work schedule. It is more than I have been used to in the past. Thus, I thought a personal schedule could benefit me. I can keep my mind focused on the task at hand while my schedule can remember responsibilities for me. Creating this has helped cement my abilities of intertwining code between html, css, and javascript. It has also started the process of including APIs and linking cdn's in my code, which will open up my future projects to have more components with a wider range of coding felxibility. 
 
 ## Installation
 NA
 
 ## Usage
-When loading the site, you will be presented with a paragraph explaing why the coding quiz exists, along with the parameters used to run the quiz. Hitting 'Start' leads you to the first of 10 questions, which all must be answered within a 2 minute time frame. If you answer a question correctly, you gain a point. If you answer a question wrong, 10 seconds will be taken off your remaining time. Whether you finish all 10 questions or time out, you will be presented with the opportunity to input your initials. Doing so will allow you to see your score, and it will be added to the board of past quiz scores. Then you press the 'Reset' button to start again.
+The schedule will load, showing the current date at the top of the page. It will then have a box allocated for each hour of a 9-5 work day. Each box/hour will also be color coordinated, so the user knows which events have passed, the lineup for the current hour, and what to expect later on in the day. As the user has more responsibilities come up, they can enter and save text for reminders of future obligations. This is done by clicking the button on the right side of each hour's box. And in case the page needs to be reloaded, local storage will remember all of the day's activities, so you do not need to worry about data being lost or needing to be entered again.
 
 Link: 
 
 Screenshots:
+
+<img width="654" alt="Ch5-Pic1" src="https://user-images.githubusercontent.com/122703273/216796808-d5c60e03-cc0d-4a46-8127-ed7c7b7990e8.PNG">
